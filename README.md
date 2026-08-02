@@ -54,7 +54,7 @@ Here are some of the labs, projects, and security research I am working on:
 | **[Python Security Tools](#)** | Simple scripts for port scanning and automated reconnaissance. | Python, Socket Programming |
 
 ---
--->
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -62,7 +62,7 @@ Here are some of the labs, projects, and security research I am working on:
 </p>
 
 ---
-
+-->
 <p align="center">
   <i>"The best way to predict the future is to create it."</i> <br>
   🔒 Always learning, always hacking ethically!
