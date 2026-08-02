@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am an aspiring Cybersecurity Expert passionate a
 ![Bash Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
+<!-- 
 ## 📊 TryHackMe / Cyber Stats
 
 *(Replace the image link below with your actual TryHackMe / HackTheBox profile badge!)*
@@ -54,11 +54,11 @@ Here are some of the labs, projects, and security research I am working on:
 | **[Python Security Tools](#)** | Simple scripts for port scanning and automated reconnaissance. | Python, Socket Programming |
 
 ---
-
+-->
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chukdan&show_icons=true&theme=tokyonight" alt="Daniel's GitHub Stats" />
 </p>
 
 ---
