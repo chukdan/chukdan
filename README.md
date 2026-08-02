@@ -63,7 +63,8 @@ Here are some of the labs, projects, and security research I am working on:
 
 ---
 -->
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i> <br>
-  🔒 Always learning, always hacking ethically!
+<p align="left">
+  <i>The best way to predict the future is to create it.</i> <br>
+
+  **🔒 Always learning, always hacking ethically!**
 </p>
